@@ -1,3 +1,8 @@
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/73116a28-5d8c-4f00-9cf9-0309c8bcb269" width="35%">
+</p>
+
+
 ## 🎉 Bem-vindo ao meu projeto da Prática Profissional Articuladora (PPA) da CAENS 🚀
 
 Este projeto foi feito durante meu ensino médio técnico no IFBA, no qual eu e mais 3 amigos tivemos que análisar e escolher um setor do instituto que tivesse problemas que pudessem ser resolvidos com um sistema, e então, cria-lo.
