@@ -11,14 +11,18 @@ O setor escolhido foi a CAENS, que é um setor que auxilia os estudantes e os pr
 - HTML
 - CSS
 - JavaScript
+- MySQL
 
 ## 🚀 Executando o Projeto
 
 1. Primeiramente, baixe os arquivos do repositório. É só clicar no botão verde "<>Code" e em "Download ZIP" que os arquivos baixarão zipados.
 
-2. Depois você precisa de um servidor local para executar o banco de dados PHP. Eu utilizei o xampp mas você pode utilizar outro.
-   Download xampp: https://www.apachefriends.org/pt_br/download.html
+2. Depois você precisa de um servidor local para executar o banco de dados PHP. Eu utilizei o xampp mas você pode utilizar outro.<br>
+   Download Xampp: https://www.apachefriends.org/pt_br/download.html
 
-3. Após instalado o xampp, vc vai abrir o aplicativo, e na linha do Apache, clicar
+3. Também é necessário um aplicativo para o banco de dados, eu uso o MySQL Workbench.<br>
+   Download MySQL: https://dev.mysql.com/downloads/workbench/
 
-4. Feito isso, ta tudo pronto para executar o programa. Você pode baixar uma extensão no VSCode chamada "Run PHP/HTML/JS in browser" e com ela executar o código com shift+f6. Mas caso não queira, é só pegar o arquivo index.php e arrastar ele pra uma aba do navegador.
+4.  Após instalado tudo, vc vai abrir o Xampp e clicar em Start tanto no Apache quanto no MySQL. Em seguida, procure o arquivo ppa.sql e abra-o no MySQL workbench.
+
+5. Feito isso, ta tudo pronto para executar o programa. Você pode baixar uma extensão no VSCode chamada "Run PHP/HTML/JS in browser" e com ela executar o código com shift+f6 ou então escrever localhost/diretorio-do-arquivo/index.php no google chrome.
